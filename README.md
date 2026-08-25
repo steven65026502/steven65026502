@@ -24,6 +24,12 @@
 
 `HTML` `CSS` `JavaScript` `Cloudflare Workers` · 具輸入驗證、版本化同步、衝突處理、自動測試與 GitHub Actions
 
+### [Voice to Codex 本機語音工作流](https://github.com/steven65026502/voice-to-codex) · [VSIX](https://github.com/steven65026502/voice-to-codex/releases/tag/v0.2.9)
+
+把 Windows 系統聲音或麥克風、GPU Whisper、WebSocket 與 VS Code 側邊欄串成即時逐字稿工具；音訊留在本機，轉錄結果經繁中、術語與雜訊清理後，可複製並開啟 Codex 繼續處理。
+
+`Python` `faster-whisper` `CUDA` `WebSocket` `VS Code Extension` · 提供可安裝 VSIX、專有名詞熱更新、單元測試、依賴弱點檢查與 GitHub Actions
+
 ### [Unity AI Piano Composer（大學團隊專題）](https://github.com/steven65026502/unity-piano)
 
 將可彈奏的 3D 鋼琴、音符事件資料、PyTorch Music Transformer 與本機 TCP 服務串成跨語言系統；Python 生成 piano-roll JSON 後，由 Unity 自動演奏。

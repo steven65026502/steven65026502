@@ -30,6 +30,18 @@
 
 `Unity` `C#` `Python` `PyTorch` `TCP Socket` `JSON` · 兩人團隊專題，個人主要負責資料前處理、模型訓練／生成、後期 Socket 與場景整合
 
+### [國道車流 AI 分析與應用（競賽專案）](https://github.com/AI-CompetitionTeam/national-highway-traffic-management-competition)
+
+為 2025 年國道智慧交通管理創意競賽整理 2024 年 TDCS 與國道五號沿線雨量資料；實作日期式下載、失敗重試、分批解壓縮、時間特徵與 K-means 探索性分群。全年實驗產生數百 GB 中間檔，公開 repository 只保留程式與少量彙整資料。
+
+`Python` `Pandas` `scikit-learn` `Requests` `Open Data` · 公開 repository 保留原始提交紀錄，程式中的大型資料路徑與個資已整理
+
+### [AgriNova 農業智慧決策工具（AI Junior Award 團隊提案）](projects/agrinova-ai-junior-award.md)
+
+以農產品供需與極端天氣造成的決策落差為題，規劃整合氣象、產量與價格資料的決策介面，並用 NLP 整理新聞等非結構化資訊。團隊完成網站原型與 4 分鐘中英字幕提案影片。
+
+`AI Product Design` `NLP` `Data Integration` `Market Demand Prediction` · 競賽概念與原型作品，未宣稱得獎或正式上線
+
 ### [Codex Agent Skills 可攜式技能包](https://github.com/steven65026502/codex-skills-shareable)
 
 將 41 個 Agent Skills 整理為可公開分享的 Windows 安裝包，保留來源與授權，並移除個資與憑證。

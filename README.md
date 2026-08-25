@@ -42,7 +42,7 @@
 
 `Python` `Pandas` `scikit-learn` `Requests` `Open Data` · 公開 repository 保留原始提交紀錄，程式中的大型資料路徑與個資已整理
 
-### [AgriNova 農業智慧決策工具（AI Junior Award 團隊提案）](projects/agrinova-ai-junior-award.md)
+### [AgriNova 農業智慧決策工具（AI Junior Award 團隊提案）](projects/agrinova-ai-junior-award.md) · [提案影片（4:06）](https://drive.google.com/file/d/1P7MUwebsCQwi854lPac5OW1pL5O4XU7q/view?usp=sharing)
 
 以農產品供需與極端天氣造成的決策落差為題，規劃整合氣象、產量與價格資料的決策介面，並用 NLP 整理新聞等非結構化資訊。團隊完成網站原型與 4 分鐘中英字幕提案影片。
 

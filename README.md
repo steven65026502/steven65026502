@@ -4,6 +4,8 @@
 
 我專注把資料處理、資料庫、API 與使用者介面整合成可驗證、可維護、可交接的系統。目前作品涵蓋海洋動態資料、QGIS／PostGIS、自動化市場研究、Unity／C#、Python／PyTorch 生成模型、Web 應用，以及 Codex Agent Skills 工作流。
 
+這一頁是給公司查看的單頁作品集；每項作品的程式碼、Demo 或影片，都直接放在對應標題。
+
 ## 精選作品
 
 ### [S-111 海流品質監測與視覺化系統](https://github.com/steven65026502/QGIS-S111-Viewer)
@@ -42,11 +44,17 @@
 
 `Python` `Pandas` `scikit-learn` `Requests` `Open Data` · 公開 repository 保留原始提交紀錄，程式中的大型資料路徑與個資已整理
 
-### [AgriNova 農業智慧決策工具（AI Junior Award 團隊提案）](projects/agrinova-ai-junior-award.md) · [提案影片（4:06）](https://drive.google.com/file/d/1P7MUwebsCQwi854lPac5OW1pL5O4XU7q/view?usp=sharing)
+### AgriNova 農業智慧決策工具（AI Junior Award 團隊提案） · [觀看提案影片（4:06，中英字幕）](https://drive.google.com/file/d/1P7MUwebsCQwi854lPac5OW1pL5O4XU7q/view?usp=sharing)
 
-以農產品供需與極端天氣造成的決策落差為題，規劃整合氣象、產量與價格資料的決策介面，並用 NLP 整理新聞等非結構化資訊。團隊完成網站原型與 4 分鐘中英字幕提案影片。
+以農產品供需與極端天氣造成的決策落差為題，規劃把原本分散的資訊整理到同一個決策介面：
 
-`AI Product Design` `NLP` `Data Integration` `Market Demand Prediction` · 競賽概念與原型作品，未宣稱得獎或正式上線
+- 整合氣溫、降雨與日照資料，協助判讀生長環境與天候風險。
+- 比較歷年產量、種植面積與市場價格，支援供需和價格趨勢分析。
+- 使用 NLP 整理新聞與政策文字，補足純數值資料看不到的事件脈絡。
+
+團隊完成網站介面原型，以及一支 4 分 6 秒、1920 × 1080 的中英字幕提案影片。這是競賽概念與原型，不是已部署產品，也沒有可驗證的模型準確率；公開內容不宣稱得獎。現存資料沒有保存逐人分工，因此以團隊成果呈現。影片包含新聞與素材畫面，只透過原雲端檔案供作品集與面試查看，不另外上傳 GitHub。
+
+`AI Product Design` `NLP` `Data Integration` `Market Demand Prediction`
 
 ### [Codex Agent Skills 可攜式技能包](https://github.com/steven65026502/codex-skills-shareable)
 
@@ -65,4 +73,4 @@
 
 `Python` · `Pandas` · `SQL` · `PostgreSQL/PostGIS` · `FastAPI` · `QGIS/PyQGIS` · `Unity/C#` · `PyTorch` · `Git/GitHub Actions` · `HTML/CSS/JavaScript` · `Cloudflare Workers`
 
-更多實作細節、限制與驗證方式，請從上方各專案 README 開始閱讀。
+這個首頁已涵蓋全部作品的重點；需要檢查程式碼、操作畫面或影片時，可直接開啟各作品標題旁的連結。

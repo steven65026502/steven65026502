@@ -2,7 +2,7 @@
 
 **Python · 資料整合 · AI 應用工程**
 
-我專注把資料處理、資料庫、API 與使用者介面整合成可驗證、可維護、可交接的系統。目前作品涵蓋海洋動態資料、QGIS／PostGIS、Web 應用、Cloudflare Worker，以及 Codex Agent Skills 工作流。
+我專注把資料處理、資料庫、API 與使用者介面整合成可驗證、可維護、可交接的系統。目前作品涵蓋海洋動態資料、QGIS／PostGIS、Unity／C#、Python／PyTorch 生成模型、Web 應用，以及 Codex Agent Skills 工作流。
 
 ## 精選作品
 
@@ -17,6 +17,12 @@
 將 28 天課程、理解題、模擬面試、進度追蹤與跨裝置同步整合成可操作的響應式 Web 應用。
 
 `HTML` `CSS` `JavaScript` `Cloudflare Workers` · 具輸入驗證、版本化同步、衝突處理、自動測試與 GitHub Actions
+
+### [Unity AI Piano Composer（大學團隊專題）](https://github.com/steven65026502/unity-piano)
+
+將可彈奏的 3D 鋼琴、音符事件資料、PyTorch Music Transformer 與本機 TCP 服務串成跨語言系統；Python 生成 piano-roll JSON 後，由 Unity 自動演奏。
+
+`Unity` `C#` `Python` `PyTorch` `TCP Socket` `JSON` · 兩人團隊專題，個人主要負責資料前處理、模型訓練／生成、後期 Socket 與場景整合
 
 ### [Codex Agent Skills 可攜式技能包](https://github.com/steven65026502/codex-skills-shareable)
 
@@ -33,6 +39,6 @@
 
 ## 技術主軸
 
-`Python` · `SQL` · `PostgreSQL/PostGIS` · `FastAPI` · `QGIS/PyQGIS` · `Git/GitHub Actions` · `HTML/CSS/JavaScript` · `Cloudflare Workers`
+`Python` · `SQL` · `PostgreSQL/PostGIS` · `FastAPI` · `QGIS/PyQGIS` · `Unity/C#` · `PyTorch` · `Git/GitHub Actions` · `HTML/CSS/JavaScript` · `Cloudflare Workers`
 
 更多實作細節、限制與驗證方式，請從上方各專案 README 開始閱讀。

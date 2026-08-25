@@ -2,7 +2,7 @@
 
 **Python · 資料整合 · AI 應用工程**
 
-我專注把資料處理、資料庫、API 與使用者介面整合成可驗證、可維護、可交接的系統。目前作品涵蓋海洋動態資料、QGIS／PostGIS、Unity／C#、Python／PyTorch 生成模型、Web 應用，以及 Codex Agent Skills 工作流。
+我專注把資料處理、資料庫、API 與使用者介面整合成可驗證、可維護、可交接的系統。目前作品涵蓋海洋動態資料、QGIS／PostGIS、自動化市場研究、Unity／C#、Python／PyTorch 生成模型、Web 應用，以及 Codex Agent Skills 工作流。
 
 ## 精選作品
 
@@ -11,6 +11,12 @@
 在 QGIS 中讀取與呈現 S-111 海流資料，整理品質監測結果，並提供前端可串接的 API 與交接文件。
 
 `Python` `PyQGIS` `HDF5/NetCDF` `PostgreSQL/PostGIS` `FastAPI` · 包含資料契約、部署與驗證文件
+
+### SEPA 市場研究與決策輔助系統 · [Live Dashboard](https://steven65026502.github.io/sepa-stock-scanner/)
+
+整合台美股資料掃描、規則化風險閘門、分層候選、歷史回測、隔日驗證、排程與靜態發布；本機流程完成後，由 GitHub Actions／Pages 發布公開唯讀工作台。
+
+`Python` `Pandas` `Streamlit` `GitHub Actions/Pages` `Windows Task Scheduler` `Playwright` · 原始碼與策略設定維持私有，公開頁提供系統狀態、研究與驗證結果，不執行下單
 
 ### [AI 應用與資料整合學習工作台](https://github.com/steven65026502/interview-trainer) · [Live Demo](https://steven65026502.github.io/interview-trainer/)
 
@@ -39,6 +45,6 @@
 
 ## 技術主軸
 
-`Python` · `SQL` · `PostgreSQL/PostGIS` · `FastAPI` · `QGIS/PyQGIS` · `Unity/C#` · `PyTorch` · `Git/GitHub Actions` · `HTML/CSS/JavaScript` · `Cloudflare Workers`
+`Python` · `Pandas` · `SQL` · `PostgreSQL/PostGIS` · `FastAPI` · `QGIS/PyQGIS` · `Unity/C#` · `PyTorch` · `Git/GitHub Actions` · `HTML/CSS/JavaScript` · `Cloudflare Workers`
 
 更多實作細節、限制與驗證方式，請從上方各專案 README 開始閱讀。

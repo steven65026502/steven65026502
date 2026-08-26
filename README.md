@@ -14,6 +14,12 @@
 
 `Python` `PyQGIS` `HDF5/NetCDF` `PostgreSQL/PostGIS` `FastAPI` · 包含資料契約、部署與驗證文件
 
+### [MedEvidence 公開文件問答與稽核系統](https://github.com/steven65026502/medical-rag-audit-demo) · [Live Demo](https://steven65026502.github.io/medical-rag-audit-demo/)
+
+以公開醫療治理文件展示 BM25 檢索、來源引用、資料不足拒答、臨床安全邊界、敏感輸入遮蔽、Audit Trail 與固定回歸評測。公開版完全在瀏覽器內執行、不上傳輸入；原始碼另保留 FastAPI、SQLite、角色分流 API 與自動測試。
+
+`Python` `FastAPI` `SQLite` `JavaScript` `BM25` `GitHub Actions/Pages` · 僅使用公開與合成資料，非醫療器材或臨床決策工具
+
 ### SEPA 市場研究與決策輔助系統 · [Live Dashboard](https://steven65026502.github.io/sepa-stock-scanner/)
 
 整合台美股資料掃描、規則化風險閘門、分層候選、歷史回測、隔日驗證、排程與靜態發布；本機流程完成後，由 GitHub Actions／Pages 發布公開唯讀工作台。
